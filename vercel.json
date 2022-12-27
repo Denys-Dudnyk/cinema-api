@@ -1,5 +1,8 @@
 {
 	"version": 2,
+	"env": {
+        "MONGO_URI": "mongodb+srv://workout-app:159753den*@cluster0.7snpx1k.mongodb.net/online-cinema?retryWrites=true&w=majority"
+    	},
 	"builds": [
 		{
 			"src": "src/main.ts",
